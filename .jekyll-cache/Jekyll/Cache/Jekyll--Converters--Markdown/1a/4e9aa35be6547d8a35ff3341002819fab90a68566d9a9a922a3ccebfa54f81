@@ -1,0 +1,18 @@
+I"�<h2 id="projects">Projects</h2>
+<hr />
+<ul>
+  <li>
+    <p><b> Confidence Boosting to Prevents Token Repetitions </b> —
+Master Thesis <br />
+Enhancing Unlikelihood training objective by replacing the hard penalization of previous tokens with the entropy of past tokens and 
+ground truth token</p>
+  </li>
+  <li>
+    <p><b> Intelligent Safety Diagnosis and Disaster Prediction Service
+for Underground Communication Area Safety
+Management</b> — Estimating the Crack Growth of Facilities <br />
+Enhancing Unlikelihood training objective by replacing the hard penalization of previous tokens with the entropy of past tokens and 
+ground truth token</p>
+  </li>
+</ul>
+:ET
