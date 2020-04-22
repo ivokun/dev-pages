@@ -13,7 +13,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Salahuddin Muhammad Iqbal
+  title: Ivodev
   tagline: Make Machine Write
   date_format: "%b %-d, %Y"
   style: black

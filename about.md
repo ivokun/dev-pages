@@ -2,6 +2,10 @@
 layout: page
 title: About me
 ---
+# About Me
+<b> Salahuddin Muhammad Iqbal </b> —
+An experienced engineer with a deep knowledge of machine learning and deep
+learning focused on Natural Language Processing and Generation
 ## Projects
 ___
 * <b> Confidence Boosting to Prevents Token Repetitions </b> —
@@ -32,3 +36,30 @@ ___
 ___
 <b> Dongseo University</b>, <em> South Korea </em> — <em> Master of Computer Engineering </em>
 <em> September 2018 - July 2020 </em>
+* Researching how the machine generates a sequence of texts or sentences and improving the quality of the output
+* Experimenting transfer learning of the existing language model to another language other than English
+
+<b> Politeknik Elektronika Negeri Surabaya</b>, <em> Indonesia </em> — <em> Bachelor of Applied Science </em>
+<em> September 2010 - July 2016 </em>
+
+## Skills
+___
+* Fluent in Python
+* Familiar with Go, JavaScript, SQL, NoSQL
+* Comfortable with existing cloud services (e.g. AWS, GCP, DigitalOcean)
+
+## Tools
+___
+* PyTorch
+* TorchText
+* HuggingFace/Transformer
+* Fairseq
+* Flask
+* ExpressJS
+* VueJS
+
+## Languages
+___
+* Speaking Japanese professionally (JLPT N1 holder)
+* Conversational English speaker
+* Bahasa Indonesia as a mother tongue
